@@ -1,0 +1,12 @@
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\bin\Debug\MultipleButtons.exe.config
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\bin\Debug\MultipleButtons.exe
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\bin\Debug\MultipleButtons.pdb
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\bin\Debug\MultipleButtons.xml
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.vbprojAssemblyReference.cache
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.Form1.resources
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.Resources.resources
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.vbproj.GenerateResource.cache
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.vbproj.CoreCompileInputs.cache
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.exe
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.xml
+D:\School\VisualBasic Class\Homework\Chapter 3\MultipleButtons\MultipleButtons\obj\Debug\MultipleButtons.pdb
