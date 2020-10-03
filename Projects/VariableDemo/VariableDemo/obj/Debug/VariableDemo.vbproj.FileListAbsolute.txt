@@ -1,0 +1,12 @@
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\bin\Debug\VariableDemo.exe.config
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\bin\Debug\VariableDemo.exe
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\bin\Debug\VariableDemo.pdb
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\bin\Debug\VariableDemo.xml
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.vbprojAssemblyReference.cache
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.Form1.resources
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.Resources.resources
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.vbproj.GenerateResource.cache
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.vbproj.CoreCompileInputs.cache
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.exe
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.xml
+D:\School\VisualBasic Class\Homework\Projects\VariableDemo\VariableDemo\obj\Debug\VariableDemo.pdb
