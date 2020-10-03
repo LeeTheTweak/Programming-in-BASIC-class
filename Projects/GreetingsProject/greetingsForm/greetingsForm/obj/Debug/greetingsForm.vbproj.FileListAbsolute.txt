@@ -1,0 +1,12 @@
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\bin\Debug\greetingsForm.exe.config
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\bin\Debug\greetingsForm.exe
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\bin\Debug\greetingsForm.pdb
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\bin\Debug\greetingsForm.xml
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.vbprojAssemblyReference.cache
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.Form1.resources
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.Resources.resources
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.vbproj.GenerateResource.cache
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.vbproj.CoreCompileInputs.cache
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.exe
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.xml
+D:\School\VisualBasic Class\Projects\GreetingsProject\greetingsForm\greetingsForm\obj\Debug\greetingsForm.pdb

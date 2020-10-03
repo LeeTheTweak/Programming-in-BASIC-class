@@ -1,0 +1,12 @@
+D:\School\VisualBasic Class\Projects\DateString\DateString\bin\Debug\DateString.exe.config
+D:\School\VisualBasic Class\Projects\DateString\DateString\bin\Debug\DateString.exe
+D:\School\VisualBasic Class\Projects\DateString\DateString\bin\Debug\DateString.pdb
+D:\School\VisualBasic Class\Projects\DateString\DateString\bin\Debug\DateString.xml
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.vbprojAssemblyReference.cache
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.Form1.resources
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.Resources.resources
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.vbproj.CoreCompileInputs.cache
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.exe
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.xml
+D:\School\VisualBasic Class\Projects\DateString\DateString\obj\Debug\DateString.pdb

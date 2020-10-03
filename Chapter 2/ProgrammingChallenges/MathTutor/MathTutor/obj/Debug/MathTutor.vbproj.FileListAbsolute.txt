@@ -1,0 +1,12 @@
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\bin\Debug\MathTutor.exe.config
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\bin\Debug\MathTutor.exe
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\bin\Debug\MathTutor.pdb
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\bin\Debug\MathTutor.xml
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.vbprojAssemblyReference.cache
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.Form1.resources
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.Resources.resources
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.cache
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.CoreCompileInputs.cache
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.exe
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.xml
+D:\School\VisualBasic Class\Homework\Chapter 2\ProgrammingChallenges\MathTutor\MathTutor\obj\Debug\MathTutor.pdb

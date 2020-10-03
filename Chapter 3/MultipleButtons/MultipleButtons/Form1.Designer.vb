@@ -32,11 +32,12 @@ Partial Class Form1
         '
         'lblGreeting
         '
+        Me.lblGreeting.AutoSize = True
         Me.lblGreeting.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.lblGreeting.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblGreeting.Location = New System.Drawing.Point(207, 88)
         Me.lblGreeting.Name = "lblGreeting"
-        Me.lblGreeting.Size = New System.Drawing.Size(356, 25)
+        Me.lblGreeting.Size = New System.Drawing.Size(353, 27)
         Me.lblGreeting.TabIndex = 0
         Me.lblGreeting.Text = "Click a language and I'll Good Morning."
         Me.lblGreeting.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
